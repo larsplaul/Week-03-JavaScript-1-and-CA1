@@ -13,7 +13,7 @@ Often when you Google, articles from w3schools will pop up first. If you prefer 
 *Don't always add W3 or MDN to your search queries, there are lots of other great sources out there.*
 
 ## Day 1 (11/2) - Introduction to JavaScript
-* quick introduction to JavaScript, a new language which you will use throughout the semester, either alone, as in this flow, or in combination with libraries like React, to create cool dynamic web pages.*
+*Quick introduction to JavaScript, a new language which you will use throughout the semester, either alone, as in this flow, or in combination with libraries like React, to create cool dynamic web pages.*
 
 ### Before this lesson you should
 - :green_book: The [MDN JavaScript Guide](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide/Introduction) (Skip these sections: Regular expressions, Keyed collections, Details of the object model and the remaining sections) 
