@@ -30,7 +30,7 @@ Often when you Google, articles from w3schools will pop up first. If you prefer 
 - :tv: [Course on Lynda.com](https://www.lynda.com/JavaScript-tutorials/Welcome/574716/612017-4.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3ajavascript%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) chap 5-8 
 
 ### Exercises
-- [Dom Manipulation and Events](https://docs.google.com/document/d/1bF7L1TRPlBX2liOoTO9_O0mUE7YROr0dYyQifKYg0TA/edit)
+- [Dom Manipulation and Events](https://docs.google.com/document/d/1vctwfldnReoszybFU0jO7Jm7JQ4Ia-CJvEymaj-QClM/edit?usp=sharing)
 
 ### Day 3-5 (13/2-15/2) - CA1
 
