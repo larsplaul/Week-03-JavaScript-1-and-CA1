@@ -20,8 +20,8 @@ Often when you Google, articles from w3schools will pop up first. If you prefer 
 - :tv: [Course on Lynda.com](https://www.lynda.com/JavaScript-tutorials/Welcome/574716/612017-4.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3ajavascript%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) - section 1 - 4 + 9 (just skip sections you find to trivial)
 
 ### Exercises 
-- [The JavaScript Array](https://docs.google.com/document/d/1Yen8XRTEXOFuHwglEF5IyhTZXJIPnkPt2kVsATwvdsM/edit)
-- [JavaScript Ex-1](https://docs.google.com/document/d/1OQM3BDIpTkzgXPKBjXyVYrFvLLLU28eGJIIAxG1U4dc/edit)
+- [The JavaScript Array](https://docs.google.com/document/d/1eEJbwvOn19fy9MoasclKURqpk3rRVSHZ4S0hGsQUG3s/edit?usp=sharing)
+- [JavaScript Ex-1](https://docs.google.com/document/d/1g4NPayMnNV8UUNdoTLZdcf4BehCip14QDuRwa4V7uFU/edit?usp=sharing)
 
 ## Day 2 (12/2) - Document Object Model (DOM)
 *An introduction to the Document Object Model (DOM).  The "thing" we can manipulate with JavaScript to dynamically change the content on a page*
